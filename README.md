@@ -1,2 +1,2 @@
 # Codefights
-Solutions of Codefights problems
+Solutions of Codefights problems in JAVA
